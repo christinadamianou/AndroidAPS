@@ -1197,7 +1197,7 @@ L\'ENSEMBLE DES RISQUES LIÉS À LA QUALITÉ ET À LA PERFORMANCE DU PROGRAMME S
     <string name="startprofileforever">Début du profil %1$d%%</string>
     <string name="exists">existe</string>
     <string name="notexists">n\'existe pas</string>
-    <string name="temptargetcompared">Temp cible %1$s</string>
+    <string name="temptargetcompared">Cible Temp. %1$s</string>
     <string name="wifissidcompared">SSID WiFi %1$s %2$s</string>
     <string name="autosenscompared">Autosens %1$s %2$s %%</string>
     <string name="autosenslabel">Autosens %</string>
